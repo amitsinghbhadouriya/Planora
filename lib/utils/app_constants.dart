@@ -34,3 +34,4 @@ class AppConstants {
   static const String notificationChannelDesc =
       'Reminders for deadlines, classes, and examinations';
 }
+
