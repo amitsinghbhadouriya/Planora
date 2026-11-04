@@ -158,3 +158,4 @@ The generated APK will be located at:
 
 ## 📄 License
 This project was developed for academic purposes as an individual college BCA Capstone Project.
+
