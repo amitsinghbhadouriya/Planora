@@ -52,3 +52,4 @@ flutter test test/widget_test.dart
 1. **Empty Database**: Screens display friendly illustration empty states with quick action buttons rather than blank or broken views.
 2. **Leap Year & Month Boundaries**: Date math utilizes standard Dart `DateTime` arithmetic, preventing calendar calculation errors.
 3. **Database Cleansing**: "Clear All Data" includes an alert confirmation dialog to avoid unintended data loss.
+

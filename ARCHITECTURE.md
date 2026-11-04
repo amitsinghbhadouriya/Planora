@@ -98,3 +98,4 @@ erDiagram
 - **Parameterized Queries**: All SQL statements use `?` placeholders (e.g. `where: 'id = ?', whereArgs: [id]`), preventing SQL Injection attacks.
 - **Asynchronous Worker Threading**: `sqflite` executes SQLite calls over background platform channels, preventing UI thread stutter and guaranteeing 60fps animations.
 - **Singleton Pattern**: A single shared database instance prevents SQLite locking conflicts and resource leaks.
+

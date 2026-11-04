@@ -45,3 +45,4 @@ All notable changes to the Smart Student Planner application are documented in t
   - Academic project report with viva voce questions and answers (`PROJECT_REPORT.md`).
   - 12-stage live classroom presentation guide (`DEMO_GUIDE.md`).
   - Unit and widget automated testing suite (`test/`).
+
